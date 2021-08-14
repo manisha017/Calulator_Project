@@ -1,2 +1,3 @@
 # Simple-Calulator
-Hosted Link : https://avibtb.github.io/Simple-Calulator/
+Hosted Link : https://manisha017.github.io/Calulator_Project/
+
